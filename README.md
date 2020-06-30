@@ -29,8 +29,31 @@ To start training run the Train.py script from the command below. For training c
 ```
 
 ## Testing
+To perfrom Inference on the trained models on Test Images you first have to download the weights and place them in the results folder. After downliading the weights you unzip them and then run the Inference by using the command below.
+```
+python Inference.py
+```
 
 ## Visualization of Results
+Inferecne Results from CPM15 Dataset
+ |      Tissue             | Mask  |  Predicted Mask  |
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./results/sample_images/cpm15.png)  |  ![](./results/sample_images/cpm15_mask.png) |  ![](./results/sample_images/cpm15_pred.png)
+
+Inferecne Results from CPM17 Dataset
+ |      Tissue             | Mask  |  Predicted Mask  |
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./results/sample_images/cpm17.png)  |  ![](./results/sample_images/cpm17_mask.png) |  ![](./results/sample_images/cpm17_pred.png)
+
+Inferecne Results from Consep Dataset
+ |      Tissue             | Mask  |  Predicted Mask  |
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./results/sample_images/consep.png)  |  ![](./results/sample_images/consep_mask.png) |  ![](./results/sample_images/consep_pred.png)
+
+Inferecne Results from Nuclei Segmentation Dataset
+ |      Tissue             | Mask  |  Predicted Mask  |
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./results/sample_images/nucleiseg.png)  |  ![](./results/sample_images/nucleiseg_mask.png) |  ![](./results/sample_images/nucleiseg_pred.png)
 
 ## Quantitative Results
 
