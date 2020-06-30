@@ -23,6 +23,10 @@ pip install -r requirments.txt
 ```
 
 ## Training 
+To start training run the Train.py script from the command below. For training configurations refer to the [Training File](./Train.py) file. You can update the file according to your training settings. Model avaible for training is U-NET.
+```
+ python Train.py
+```
 
 ## Testing
 
