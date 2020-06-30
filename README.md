@@ -95,3 +95,5 @@ Model is evaluated on three metrics namely:
 </p>
 
 ## Authors
+`Maintainer` [Syed Nauyan Rashid](https://https://github.com/nauyan) (nauyan@hotmail.com)
+`Maintainer` [Asim Khan Niazi](https://github.com/asimniazi63) (asimhameed.cs@gmail.com)
