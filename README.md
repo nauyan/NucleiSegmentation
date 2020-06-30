@@ -62,6 +62,13 @@ Inferecne Results from Nuclei Segmentation Dataset
 
 ## Quantitative Results
 
+| Dataset | Loss | Accuracy | F1 Score | Dice Score |
+| ----- | ---- | ---- | ---- | ---- |
+| CPM 15 | 0.048 | 0.951 | 0.879 | 0.878
+| CPM 17 | 0.054 | 0.945 | 0.866 | 0.865
+| Consep | 0.304 | 0.692 | 0.586 | 0.586
+| Nuclei Segmentation | 0.016 |  0.983 | N/A | N/A
+
 ## Training Plots
 Model is evaluated on three metrics namely:
 * Accuracy
@@ -100,5 +107,5 @@ Model is evaluated on three metrics namely:
 </p>
 
 ## Authors
-`Maintainer` [Syed Nauyan Rashid](https://https://github.com/nauyan) (nauyan@hotmail.com)
+`Maintainer` [Syed Nauyan Rashid](https://https://github.com/nauyan) (nauyan@hotmail.com) <br>
 `Maintainer` [Asim Khan Niazi](https://github.com/asimniazi63) (asimhameed.cs@gmail.com)
