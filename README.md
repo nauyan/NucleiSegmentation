@@ -58,5 +58,40 @@ Inferecne Results from Nuclei Segmentation Dataset
 ## Quantitative Results
 
 ## Training Plots
+Model is evaluated on three metrics namely:
+* Accuracy
+* F1-Score
+* Dice Score
+### CPM 15
+<p float="center">
+	<img src='./results/plots/cpm15_train_accuracy.png' width="430"/>
+  	<img src='./results/plots/cpm15_train_f1.png' width="430"/>
+ <img src='./results/plots/cpm15_train_dice.png' width="430"/>
+  	<img src='./results/plots/cpm15_train_loss.png' width="430"/>
+</p>
+
+### CPM 17
+<p float="center">
+	<img src='./results/plots/cpm17_train_accuracy.png' width="430"/>
+  	<img src='./results/plots/cpm17_train_f1.png' width="430"/>
+ <img src='./results/plots/cpm17_train_dice.png' width="430"/>
+  	<img src='./results/plots/cpm17_train_loss.png' width="430"/>
+</p>
+
+### Consep
+<p float="center">
+	<img src='./results/plots/consep_train_accuracy.png' width="430"/>
+  	<img src='./results/plots/consep_train_f1.png' width="430"/>
+ <img src='./results/plots/consep_train_dice.png' width="430"/>
+  	<img src='./results/plots/consep_train_loss.png' width="430"/>
+</p>
+
+### Nuclei Segmentation
+<p float="center">
+	<img src='./results/plots//nucleiseg_train_accuracy.png' width="430"/>
+  	<img src='./results/plots//nucleiseg_train_f1.png' width="430"/>
+ <img src='./results/plots//nucleiseg_train_dice.png' width="430"/>
+  	<img src='./results/plots//nucleiseg_train_loss.png' width="430"/>
+</p>
 
 ## Authors
