@@ -22,12 +22,12 @@ keras.backend.set_image_data_format('channels_last')
 
 #dataset_name = "cpm15"
 #dataset_dir = "dataset/cpm15"
-dataset_name = "cpm17"
-dataset_dir = "dataset/cpm17"
+#dataset_name = "cpm17"
+#dataset_dir = "dataset/cpm17"
 #dataset_name = "consep"
 #dataset_dir = "dataset/consep"
-#dataset_name = "nucleiseg"
-#dataset_dir = "dataset/nucleiseg"
+dataset_name = "nucleiseg"
+dataset_dir = "dataset/nucleiseg"
 prepared_dataset_dir = "prepared_dataset"
 
 images_list = glob.glob(os.path.join(dataset_dir,prepared_dataset_dir,"train","images")+"/*.png")
