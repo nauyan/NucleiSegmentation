@@ -22,7 +22,7 @@ The purpose of this pipeline was to explore and train various nuclei segmentaion
 ![UNet Architecture](https://vasanashwin.github.io/retrospect/images/unet.png)
 
 ## Pre-Trained Models
-The Pre-Trained models can be downloaded from [google drive](https://drive.google.com/drive/folders/1g5SdbW8q1Z0e9dk6cW431JO01BDq4g0H).
+The Pre-Trained models can be downloaded from [google drive](https://drive.google.com/drive/u/1/folders/1SmbB6gJ1LUHcayl9TTFEllY_SHP9tQXx).
 
 ## Installation
 To get this repo work please install all the dependencies using the command below:
