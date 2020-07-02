@@ -5,13 +5,13 @@
 ## Datasets
 
 ### CPM 15
-Details to follow.
+The dataset can be downloaded from the [link](https://drive.google.com/drive/folders/1l55cv3DuY-f7-JotDN7N5nbNnjbLWchK)
 ### CPM 17
-Details to follow.
+The dataset can be downloaded from the [link](https://drive.google.com/drive/folders/1l55cv3DuY-f7-JotDN7N5nbNnjbLWchK)
 ### Consep
-A dataset that contains manually annotated 24,319 nuclei with associated class labels. 
+A dataset that contains manually annotated 24,319 nuclei with associated class labels. The dataset can be downloaded from the [link](https://warwick.ac.uk/fac/sci/dcs/research/tia/data/hovernet/)
 ### Nuclei Segmentation
-The dataset consist of 143 images ER+ BCa images scanned at 40x. Each image is 2,000 x 2,000. Across these images there are about 12,000 nuclei manually segmented.
+The dataset consist of 143 images ER+ BCa images scanned at 40x. Each image is 2,000 x 2,000. Across these images there are about 12,000 nuclei manually segmented. The dataset can be downloaded from the [link](http://andrewjanowczyk.com/wp-static/nuclei.tgz)
 
 ## Patch Generation
 Patch Generation has been done in offline mode to reduce pipeline complexity. The proposed approach uses multiple dataset therefore the size of WSIs are non-standard. Where as the pathches generated from WSIs have dimensions of 256x256x3 having 75% overlap among them. 
