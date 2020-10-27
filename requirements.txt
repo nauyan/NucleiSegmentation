@@ -11,7 +11,7 @@ cffi==1.14.0
 chardet==3.0.4
 ci-info==0.2.0
 click==7.1.1
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.15
 decorator==4.4.2
