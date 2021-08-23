@@ -65,7 +65,7 @@ networkx==2.4
 neurdflib==5.0.1
 nibabel==3.1.0
 nipype==1.4.2
-notebook==6.0.3
+notebook==6.4.1
 numba==0.49.1
 numpy==1.18.3
 oauthlib==3.1.0
