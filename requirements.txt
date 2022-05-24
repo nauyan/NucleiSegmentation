@@ -116,7 +116,7 @@ SimpleITK==1.2.4
 simplejson==3.17.0
 six==1.14.0
 tensorboard==2.1.0
-tensorflow==2.0.0
+tensorflow==2.6.4
 tensorflow-estimator==2.0.0
 termcolor==1.1.0
 terminado==0.8.3
